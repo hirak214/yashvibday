@@ -133,10 +133,7 @@ myButton {
 	background:linear-gradient(to bottom, #ee9ca7 5%, #d89099 100%);
 	background-color:#e1939d;
 }
-.myButton:active {
-	position:relative;
-	top:1px;
-}
+
 
 .wrapper {
     text-align: center;
