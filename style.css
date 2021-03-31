@@ -125,9 +125,6 @@ myButton {
 	padding:6px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #ee9ca7;
-    position: absolute;
-    right: 40%;
-    left: 40%;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #ee9ca7 5%, #d89099 100%);
